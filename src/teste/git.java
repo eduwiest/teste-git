@@ -6,6 +6,7 @@ public class git {
 		System.out.println("Teste 1 de Git");
 		System.out.println("Teste 2 de git");
 		System.out.println("Teste 3 de git");
+		System.out.println("Bom dia");
 
 	}
 
